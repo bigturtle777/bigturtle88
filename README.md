@@ -4,9 +4,9 @@
 
 I have over 11 years in the IT industry. \
 I have over 6 years of web development experience. \
-I like startups and everything connected with them. What could be more amazing than creating the world from one idea? :) \
+I like startups and everything connected with them. What could be more amazing than creating the world from one idea? :) 
 
-I practice a systematic understanding of the project at each stage of development. I understand how sales, marketing, developers, managers work. This gives me the opportunity to become a translator between these specialists. \
+I practice a systematic understanding of the project at each stage of development. I understand how sales, marketing, developers, managers work. This gives me the opportunity to become a translator between these specialists. 
 
 ### 🛠 &nbsp;My stack of skills
 
