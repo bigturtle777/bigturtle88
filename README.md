@@ -1,4 +1,4 @@
-<!-- ## 👋 &nbsp;Hello there! I'm Vyacheslav -->
+<h2> 👋 Hello there! I'm Vyacheslav</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
